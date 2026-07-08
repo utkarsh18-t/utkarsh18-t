@@ -64,36 +64,33 @@
   </svg>
 </p>
 
-<h2 align="center">💠 Tech Stack</h2>
+<h2 align="center">💠 Tech Stack & Creative Suite</h2>
 
-### AI & Machine Learning
+### AI & Machine Learning Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-4B2E83?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FEE75C?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/ChromaDB-0052CC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-71E587?style=for-the-badge&logoColor=black" />
 </p>
 
-### Core Programming Languages
+### AI Tools & Assistants
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-### Model Serving & Databases
+### Design & Motion Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=ps,ae,canva,figma" />
 </p>
 
-### DevOps & Tooling
+### Core Languages & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,postgres,mongodb" />
 </p>
 
 <!-- Modern Gradient Divider -->
@@ -112,7 +109,7 @@
 
 <h2 align="center">💠 GitHub Analytics</h2>
 
-<!-- The Automated Snake Game (Replaces your broken images) -->
+<!-- The Automated Snake Game -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh18t/utkarsh18t/output/github-contribution-grid-snake-dark.svg">
