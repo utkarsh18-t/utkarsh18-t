@@ -42,12 +42,17 @@
 ## 🔹 About Me
 
 
+
 <!-- The trending contribution snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
 
 
 <!-- Modern Gradient Divider -->
@@ -93,34 +98,11 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,postgres,mongodb" />
 </p>
 
-<!-- Modern Gradient Divider -->
-<p align="center">
-  <svg width="100%" height="2" viewBox="0 0 1200 2" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M0 1H1200" stroke="url(#paint1_linear)" stroke-width="2"/>
-    <defs>
-      <linearGradient id="paint1_linear" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#0d1117" stop-opacity="0"/>
-        <stop offset="0.5" stop-color="#ab7df6"/>
-        <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
 
-<h2 align="center">💠 GitHub Analytics</h2>
-
-<!-- The Automated Snake Game -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh18t/utkarsh18t/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh18t/utkarsh18t/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/utkarsh18t/utkarsh18t/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
 <br>
 
 <!-- Streak Stats Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh18t&theme=tokyonight&hide_border=true&background=0d1117" alt="utkarsh18t's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh18-t&theme=tokyonight&hide_border=true&background=0d1117" alt="utkarsh18-t's GitHub Streak" />
 </p>
