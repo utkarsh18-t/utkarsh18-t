@@ -104,5 +104,15 @@
 
 <!-- Streak Stats Card -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh18-t&theme=tokyonight&hide_border=true&background=0d1117" alt="utkarsh18-t's GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=utkarsh18-t&theme=black-ice&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=8b949e&sideLabels=8b949e&dates=4facfe&hide_border=true" alt="utkarsh18-t GitHub Streak" />
+  </a>
 </p>
+
+
+
+
+
+
+<div align="center">
+
