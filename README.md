@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=1a3a8a&height=180&section=header&text=Utkarsh&fontSize=65&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a8a&height=180&section=header&text=Utkarsh&fontSize=65&fontColor=ffffff" width="100%" />
 
 ### CS Student • AI Explorer • Builder of Cool Things
 
