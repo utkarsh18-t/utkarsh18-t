@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=UTKARSH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%20%E2%80%A2Explorer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=UTKARSH&fontSize=70&fontColor=ffffff&animation=FadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%20%E2%80%A2Explorer&descAlignY=60&descSize=18" width="100%"/>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh18-t&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh%20Tripathi" /> </p>
