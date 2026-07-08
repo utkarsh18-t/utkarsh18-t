@@ -44,8 +44,7 @@
 
 <!-- The trending contribution snake animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh18-t/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh18-t/Utkarsh18-t/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/utkarsh18-t/utkarsh18-t/output/github-contribution-grid-snake.svg">
 </picture>
-
