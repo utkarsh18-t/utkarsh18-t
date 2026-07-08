@@ -1,19 +1,17 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=UTKARSH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%E2%80%A2Explorer%20%E2%80%A2%20Builder%20of%20Cool%20Things&descAlignY=60&descSize=18" width="100%"/>
-<h3 align="center">A passionate Software Engineer from India</h3>9
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavgiri&label=Profile%20views&color=0e75b6&style=flat" alt="utsavgiri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarsh18-t&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh%20Tripathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utsavgiri" alt="utsavgiri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh18-t" alt="Utkarsh" /></a> </p>
 
-- 📫 How to reach me **utsavgiri2004@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- 📫 How to reach me **utkarsh1785@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/utsav_goswami_70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsav_goswami_70" height="30" width="40" /></a>
+<a href="https://instagram.com/avi_39t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avi_39t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
