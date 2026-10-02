@@ -83,7 +83,10 @@
 ### AI Tools & Assistants
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-    
+ 
+  <a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gemini-1E9E5A?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+</a>
   <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
