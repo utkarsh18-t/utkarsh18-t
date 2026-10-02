@@ -94,7 +94,7 @@
 
 ### Design & Motion Graphics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ae,canva,figma" />
+  <img src="https://skillicons.dev/icons?i=ps,ae,figma" />
 </p>
 
 ### Core Languages & Databases
