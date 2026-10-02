@@ -83,36 +83,7 @@
 ### AI Tools & Assistants
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
-<a class="badge gemini" href="https://gemini.google.com" target="_blank" rel="noopener noreferrer">
-  <svg viewBox="0 0 24 24" width="22" height="22" fill="#fff" aria-hidden="true">
-    <path d="M12 0C12 6.6 17.4 12 24 12C17.4 12 12 17.4 12 24C12 17.4 6.6 12 0 12C6.6 12 12 6.6 12 0Z"/>
-  </svg>
-  <span>GEMINI</span>
-</a>
-
-<style>
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 12px;
-    padding: 0 28px;
-    height: 72px;
-    color: #fff;
-    font-family: Roboto, Arial, sans-serif;
-    font-weight: 700;
-    font-size: 22px;
-    letter-spacing: 0.25em;
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: filter 0.2s;
-  }
-  .badge:hover {
-    filter: brightness(1.1);
-  }
-  .badge.gemini {
-    background: #1e9e5a;
-  }
-</style>
+    
   <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white" />
   <img src="https://img.shields.io/badge/Copilot-24292e?style=for-the-badge&logo=githubcopilot&logoColor=white" />
